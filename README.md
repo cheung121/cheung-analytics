@@ -19,6 +19,12 @@ Run the generator:
 py scripts\generate_draft.py --season 2026
 ```
 
+Generate a real Statcast sample for exit velocity:
+
+```powershell
+py scripts\generate_draft.py --metric exit-velo --date 2025-04-07 --relative-date yesterday
+```
+
 Export the latest generated SVG into a PNG for X:
 
 ```powershell
@@ -57,6 +63,20 @@ https://github.com/cheung121/cheung-analytics
 ```
 
 Git is not available in the current shell, so the project has been prepared for that repository but not pushed from this environment.
+
+## X Posting
+
+To post the latest draft with the official X API, create a local `.env` file with:
+
+```text
+X_USER_ACCESS_TOKEN=your_user_access_token_here
+```
+
+Then run:
+
+```powershell
+py scripts\post_to_x.py
+```
 
 ## Brand Guardrails
 

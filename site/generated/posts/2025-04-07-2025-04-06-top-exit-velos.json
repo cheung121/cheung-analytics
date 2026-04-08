@@ -1,0 +1,80 @@
+{
+  "slug": "2025-04-07-2025-04-06-top-exit-velos",
+  "title": "Top 5 exit velos | Apr 06, 2025",
+  "subtitle": "Hardest-hit MLB balls in play from Baseball Savant Statcast.",
+  "summary": "Top 5 exit velocities from MLB games on April 06, 2025.",
+  "caption": "Top 5 exit velos | Apr 06, 2025\n\nJhonkensy Noel led the day at 116.1 mph for CLE.\nStatcast sample from MLB games on April 06, 2025.\n\nSource: Baseball Savant Statcast | Graphic: Cheung Analytics #MLB #BaseballAnalytics",
+  "source": "Baseball Savant Statcast",
+  "leaders": [
+    {
+      "name": "Jhonkensy Noel",
+      "team": "CLE",
+      "opponent": "LAA",
+      "value": 116.1,
+      "value_display": "116.1",
+      "secondary": "vs LAA | Field Out | 87 ft | 3 deg",
+      "event": "Field Out",
+      "distance_ft": "87",
+      "launch_angle": "3",
+      "rank": 1
+    },
+    {
+      "name": "Corbin Carroll",
+      "team": "AZ",
+      "opponent": "WSH",
+      "value": 115.8,
+      "value_display": "115.8",
+      "secondary": "vs WSH | Triple | 133 ft | 6 deg",
+      "event": "Triple",
+      "distance_ft": "133",
+      "launch_angle": "6",
+      "rank": 2
+    },
+    {
+      "name": "Jorge Soler",
+      "team": "LAA",
+      "opponent": "CLE",
+      "value": 112.7,
+      "value_display": "112.7",
+      "secondary": "vs CLE | Home Run | 397 ft | 18 deg",
+      "event": "Home Run",
+      "distance_ft": "397",
+      "launch_angle": "18",
+      "rank": 3
+    },
+    {
+      "name": "Matt Wallner",
+      "team": "MIN",
+      "opponent": "HOU",
+      "value": 112.0,
+      "value_display": "112.0",
+      "secondary": "vs HOU | Single | 180 ft | 7 deg",
+      "event": "Single",
+      "distance_ft": "180",
+      "launch_angle": "7",
+      "rank": 4
+    },
+    {
+      "name": "Luis Matos",
+      "team": "SF",
+      "opponent": "SEA",
+      "value": 111.6,
+      "value_display": "111.6",
+      "secondary": "vs SEA | Field Out | 83 ft | 2 deg",
+      "event": "Field Out",
+      "distance_ft": "83",
+      "launch_angle": "2",
+      "rank": 5
+    }
+  ],
+  "board_label": "EXIT VELO",
+  "metric": "exit-velo",
+  "season": 2025,
+  "date": "2025-04-07",
+  "target_date": "2025-04-06",
+  "alt": "Cheung Analytics graphic showing Top 5 exit velocities from MLB games on April 06, 2025.",
+  "graphic": "generated/graphics/2025-04-07-2025-04-06-top-exit-velos.svg",
+  "graphic_png": null,
+  "x_handle": "@CheungAnalytics",
+  "compliance_note": "Use original graphics and avoid unlicensed MLB/team logos, player photos, and scraped screenshots."
+}

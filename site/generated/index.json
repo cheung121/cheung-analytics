@@ -1,10 +1,10 @@
 {
   "latest": {
-    "title": "MLB home run leaders through Apr 07, 2026",
-    "summary": "Top 5 MLB home run leaders for the 2026 regular season.",
-    "graphic": "generated/graphics/2026-04-07-mlb-hr-leaders.svg",
-    "post_json": "generated/posts/2026-04-07-mlb-hr-leaders.json",
-    "alt": "Cheung Analytics graphic showing Top 5 MLB home run leaders for the 2026 regular season."
+    "title": "Top 5 exit velos | Apr 06, 2025",
+    "summary": "Top 5 exit velocities from MLB games on April 06, 2025.",
+    "graphic": "generated/graphics/2025-04-07-2025-04-06-top-exit-velos.svg",
+    "post_json": "generated/posts/2025-04-07-2025-04-06-top-exit-velos.json",
+    "alt": "Cheung Analytics graphic showing Top 5 exit velocities from MLB games on April 06, 2025."
   },
-  "updated_at": "2026-04-08T02:17:14Z"
+  "updated_at": "2026-04-08T03:20:24Z"
 }

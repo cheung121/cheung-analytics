@@ -1,0 +1,66 @@
+{
+  "generated_from": "offline sample fallback",
+  "metric": "exit-velo",
+  "leaders": [
+    {
+      "rank": 1,
+      "name": "Sample Slugger",
+      "team": "CA",
+      "opponent": "LAB",
+      "value": 112.6,
+      "value_display": "112.6",
+      "secondary": "vs LAB | Home Run | 431 ft | 28 deg",
+      "event": "Home Run",
+      "distance_ft": "431",
+      "launch_angle": "28"
+    },
+    {
+      "rank": 2,
+      "name": "Barrel Board",
+      "team": "CA",
+      "opponent": "SYS",
+      "value": 111.4,
+      "value_display": "111.4",
+      "secondary": "vs SYS | Double | 380 ft | 21 deg",
+      "event": "Double",
+      "distance_ft": "380",
+      "launch_angle": "21"
+    },
+    {
+      "rank": 3,
+      "name": "Launch Report",
+      "team": "CA",
+      "opponent": "OPS",
+      "value": 110.8,
+      "value_display": "110.8",
+      "secondary": "vs OPS | Single | 242 ft | 12 deg",
+      "event": "Single",
+      "distance_ft": "242",
+      "launch_angle": "12"
+    },
+    {
+      "rank": 4,
+      "name": "Whiff Ledger",
+      "team": "CA",
+      "opponent": "KBB",
+      "value": 109.9,
+      "value_display": "109.9",
+      "secondary": "vs KBB | Field Out | 333 ft | 35 deg",
+      "event": "Field Out",
+      "distance_ft": "333",
+      "launch_angle": "35"
+    },
+    {
+      "rank": 5,
+      "name": "Contact Model",
+      "team": "CA",
+      "opponent": "FIP",
+      "value": 109.2,
+      "value_display": "109.2",
+      "secondary": "vs FIP | Single | 194 ft | 10 deg",
+      "event": "Single",
+      "distance_ft": "194",
+      "launch_angle": "10"
+    }
+  ]
+}
