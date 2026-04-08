@@ -1,0 +1,4 @@
+# The core generator uses only the Python standard library.
+# Optional later upgrade for PNG export from SVG:
+cairosvg>=2.7.1
+

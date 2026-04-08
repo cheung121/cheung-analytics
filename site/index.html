@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Cheung Analytics turns MLB data into sharp, original baseball insight and branded stat graphics.">
+    <title>Cheung Analytics | MLB Data, Graphics, and Trends</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="./" aria-label="Cheung Analytics home">
+        <img src="assets/brand/cheung-analytics-primary-logo.png" alt="Cheung Analytics logo">
+        <span>Cheung Analytics</span>
+      </a>
+      <nav aria-label="Primary navigation">
+        <a href="#latest">Latest</a>
+        <a href="#formats">Formats</a>
+        <a href="#about">About</a>
+        <a href="https://x.com/CheungAnalytics">X</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">MLB data, explained fast</p>
+          <h1>Original baseball analytics graphics for the timeline.</h1>
+          <p>
+            Cheung Analytics turns MLB stat signals into clean charts, leaderboards,
+            and short-form insights built for X and the web.
+          </p>
+          <div class="hero-actions">
+            <a class="button primary" href="https://x.com/CheungAnalytics">Follow @CheungAnalytics</a>
+            <a class="button secondary" href="#latest">View latest card</a>
+          </div>
+        </div>
+        <div class="hero-card" aria-label="Cheung Analytics brand preview">
+          <img src="assets/brand/cheung-analytics-banner-logo.png" alt="Cheung Analytics Spartan banner logo">
+        </div>
+      </section>
+
+      <section id="latest" class="panel latest-panel">
+        <div>
+          <p class="eyebrow">Latest generated draft</p>
+          <h2 id="latest-title">MLB stat card loading</h2>
+          <p id="latest-summary">
+            Run <code>python scripts\generate_draft.py --season 2026</code> to create the first live draft.
+          </p>
+          <a id="latest-link" class="text-link" href="generated/index.json">View generated metadata</a>
+        </div>
+        <div class="graphic-frame">
+          <img id="latest-graphic" src="assets/brand/cheung-analytics-banner-logo.png" alt="Latest Cheung Analytics stat graphic">
+        </div>
+      </section>
+
+      <section id="formats" class="content-grid">
+        <article class="panel">
+          <p class="eyebrow">Format 01</p>
+          <h3>Daily Leaders</h3>
+          <p>Quick cards for home runs, exit velocity, barrels, whiffs, and run value.</p>
+        </article>
+        <article class="panel">
+          <p class="eyebrow">Format 02</p>
+          <h3>Trend Watch</h3>
+          <p>Rolling 7-day team and player trends with simple chart explanations.</p>
+        </article>
+        <article class="panel">
+          <p class="eyebrow">Format 03</p>
+          <h3>Deep Dives</h3>
+          <p>Short website posts that explain why a stat matters and link back to the X post.</p>
+        </article>
+      </section>
+
+      <section id="about" class="panel about">
+        <div>
+          <p class="eyebrow">Built responsibly</p>
+          <h2>Data-first, brand-safe baseball content.</h2>
+        </div>
+        <p>
+          The goal is to create original analysis from publicly available baseball data while avoiding
+          unlicensed MLB/team marks, player photos, and scraped screenshots. Every graphic is designed
+          around Cheung Analytics branding so the account can grow into a recognizable platform.
+        </p>
+      </section>
+    </main>
+
+    <footer>
+      <span>Cheung Analytics</span>
+      <span>Not affiliated with Major League Baseball.</span>
+      <a href="https://x.com/CheungAnalytics">@CheungAnalytics</a>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,42 @@
+{
+  "generated_from": "offline sample fallback",
+  "metric": "homeRuns",
+  "leaders": [
+    {
+      "rank": 1,
+      "name": "Sample Slugger",
+      "team": "Cheung Analytics",
+      "value": 8,
+      "secondary": ".618 SLG"
+    },
+    {
+      "rank": 2,
+      "name": "Launch Angle Lab",
+      "team": "Cheung Analytics",
+      "value": 7,
+      "secondary": "15 barrels"
+    },
+    {
+      "rank": 3,
+      "name": "Exit Velo Model",
+      "team": "Cheung Analytics",
+      "value": 6,
+      "secondary": "92.4 mph avg EV"
+    },
+    {
+      "rank": 4,
+      "name": "Plate Discipline Desk",
+      "team": "Cheung Analytics",
+      "value": 5,
+      "secondary": "13.2% BB rate"
+    },
+    {
+      "rank": 5,
+      "name": "Run Value Report",
+      "team": "Cheung Analytics",
+      "value": 5,
+      "secondary": "+8 batting RV"
+    }
+  ]
+}
+

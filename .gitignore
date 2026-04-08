@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.Rhistory
+.venv/
+venv/
+node_modules/
+.browser-profile/
+outputs/drafts/*.tmp
+site/generated/*.tmp

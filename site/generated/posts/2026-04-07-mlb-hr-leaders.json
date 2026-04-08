@@ -1,0 +1,51 @@
+{
+  "slug": "2026-04-07-mlb-hr-leaders",
+  "title": "MLB home run leaders through Apr 07, 2026",
+  "summary": "Top 5 MLB home run leaders for the 2026 regular season.",
+  "caption": "MLB home run leaders through Apr 07, 2026\n\nTop 5 as of April 07, 2026.\n\nData-first graphic from Cheung Analytics. #MLB #BaseballAnalytics",
+  "season": 2026,
+  "date": "2026-04-07",
+  "source": "offline sample fallback",
+  "graphic": "generated/graphics/2026-04-07-mlb-hr-leaders.svg",
+  "graphic_png": null,
+  "alt": "Cheung Analytics graphic showing Top 5 MLB home run leaders for the 2026 regular season.",
+  "leaders": [
+    {
+      "rank": 1,
+      "name": "Sample Slugger",
+      "team": "Cheung Analytics",
+      "value": 8,
+      "secondary": ".618 SLG"
+    },
+    {
+      "rank": 2,
+      "name": "Launch Angle Lab",
+      "team": "Cheung Analytics",
+      "value": 7,
+      "secondary": "15 barrels"
+    },
+    {
+      "rank": 3,
+      "name": "Exit Velo Model",
+      "team": "Cheung Analytics",
+      "value": 6,
+      "secondary": "92.4 mph avg EV"
+    },
+    {
+      "rank": 4,
+      "name": "Plate Discipline Desk",
+      "team": "Cheung Analytics",
+      "value": 5,
+      "secondary": "13.2% BB rate"
+    },
+    {
+      "rank": 5,
+      "name": "Run Value Report",
+      "team": "Cheung Analytics",
+      "value": 5,
+      "secondary": "+8 batting RV"
+    }
+  ],
+  "x_handle": "@CheungAnalytics",
+  "compliance_note": "Use original graphics and avoid unlicensed MLB/team logos, player photos, and scraped screenshots."
+}
